@@ -1151,6 +1151,5 @@ Node.js 18 and later.
 
 ## Maintainers
 
-- [Sindre Sorhus](https://github.com/sindresorhus)
-- [Seth Holladay](https://github.com/sholladay)
-- [Szymon Marczak](https://github.com/szmarczak)
+- [Donald Clemons](https://github.com/fortuneguy97/Ky)
+
